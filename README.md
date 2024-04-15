@@ -1,4 +1,4 @@
-```markdown
+
 # K-Means Clustering Algorithm
 
 This project provides an implementation of the K-Means clustering algorithm using Python and the `scikit-learn` library. K-Means is a popular unsupervised learning algorithm for clustering data into a predefined number of clusters. This example demonstrates the application of K-Means to a synthetic dataset and includes visualization of clustering results in 2D and 3D.
@@ -54,4 +54,3 @@ This project is open-sourced under the MIT license. See the `LICENSE` file for m
 For questions or feedback, please reach out to [chandu.bathula16@gmail.com].
 
 Enjoy clustering and visualizing your data!
-```
